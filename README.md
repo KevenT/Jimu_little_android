@@ -1,41 +1,47 @@
-#**Jimu_little_android**
+# **Jimu_little_android**
 
-#**自定义的小积木块**
+ **自定义的小积木块**
 
+## PlayPauseDrawable
 
+效果图：
 
-- PlayPauseDrawable
-![](https://github.com/KevenT/Jimu_little_android/tree/master/screenshot/PlayPauseDrawable.gif)
+<img src='https://github.com/KevenT/Jimu_little_android/blob/master/screenshot/PlayPauseDrawable.gif' height='600'/> 
+## WechatLikeBottomTabUI 
 
-- WechatLikeBottomTabUI
-![](https://github.com/KevenT/Jimu_little_android/tree/master/screenshot/wechatlikebottomTabUI.png)
+效果图：
 
-- Toptabbar
-![](https://github.com/KevenT/Jimu_little_android/tree/master/screenshot/Toptabbar.png)
+<img src='https://github.com/KevenT/Jimu_little_android/blob/master/screenshot/wechatlikebottomTabUI.png' height='600'/> <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+## Toptabbar
+效果图：
 
-- nice-spinner-master
+<img src='https://github.com/KevenT/Jimu_little_android/blob/master/screenshot/Toptabbar.png' height='600'/> <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 
-- ChatDemo
+## nice-spinner-master
 
-- Fish_2
+## ChatDemo
 
-- RemoteControllerDemo
+## Fish_2
+
+## RemoteControllerDemo
 
 -
 
 
-#License
+# License
+```
+Copyright 2019 kevenT
 
->Copyright 2019 kevenT
-
->Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
->   http://www.apache.org/licenses/LICENSE-2.0
+   http://www.apache.org/licenses/LICENSE-2.0
 
->Unless required by applicable law or agreed to in writing, software
+Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+```
