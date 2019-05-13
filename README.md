@@ -5,13 +5,13 @@
 
 
 - PlayPauseDrawable
-![](https://github.com/KevenT/Jimu_little_android/screenshot/master/PlayPauseDrawable.gif)
+![](https://github.com/KevenT/Jimu_little_android/tree/master/screenshot/PlayPauseDrawable.gif)
 
 - WechatLikeBottomTabUI
-![](https://github.com/KevenT/Jimu_little_android/screenshot/master/wechatlikebottomTabUI.png)
+![](https://github.com/KevenT/Jimu_little_android/tree/master/screenshot/wechatlikebottomTabUI.png)
 
 - Toptabbar
-![](https://github.com/KevenT/Jimu_little_android/screenshot/master/Toptabbar.png)
+![](https://github.com/KevenT/Jimu_little_android/tree/master/screenshot/Toptabbar.png)
 
 - nice-spinner-master
 
