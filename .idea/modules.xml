@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jimu_little_android.iml" filepath="$PROJECT_DIR$/Jimu_little_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayPauseDrawable/PlayPauseDrawable.iml" filepath="$PROJECT_DIR$/PlayPauseDrawable/PlayPauseDrawable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toptabbar/Toptabbar.iml" filepath="$PROJECT_DIR$/Toptabbar/Toptabbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WechatLikeBottomTabUI/WechatLikeBottomTabUI.iml" filepath="$PROJECT_DIR$/WechatLikeBottomTabUI/WechatLikeBottomTabUI.iml" />
+    </modules>
+  </component>
+</project>
